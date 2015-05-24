@@ -8,6 +8,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        <Button x:Name="primer" Content="Button" HorizontalAlignment="Left" Margin="36,28,0,0" VerticalAlignment="Top" Width="75" Click="button_Click"/>
+        <Button Name="primer" Content="Button" HorizontalAlignment="Left" Margin="36,28,0,0" VerticalAlignment="Top" Width="75" Click="primer_Click"/>
     </Grid>
 </Window>
